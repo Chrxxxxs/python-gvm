@@ -16,6 +16,5 @@ utilities and xml helpers.
     connections
     transforms
     protocols
-    http
     errors
     other
